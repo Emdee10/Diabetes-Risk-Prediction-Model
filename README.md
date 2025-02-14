@@ -47,6 +47,7 @@ Data Collection & Cleaning: Load and preprocess patient health data.
 ![mssg val vis](https://github.com/user-attachments/assets/55430f64-1680-46f0-8976-2547954ee77c)
 
 Exploratory Data Analysis (EDA): Visualize key relationships and identify patterns.
+
 ![blood glucose boxplot](https://github.com/user-attachments/assets/4490f47e-53ff-4b38-8acc-a9a20529eeb2)
 ![HbA1c boxplot](https://github.com/user-attachments/assets/e604d35d-3de1-42b0-a627-4f59d7a20400)
 ![bmi boxplot](https://github.com/user-attachments/assets/e30ee802-fecf-4fe7-a0ef-f34160f97672)
