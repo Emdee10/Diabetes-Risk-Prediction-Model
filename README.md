@@ -101,7 +101,7 @@ F1-Score: Balances precision and recall.
 
 AUC-ROC: Determines the model’s ability to distinguish between diabetic and non-diabetic cases.
 
-Key Findings:
+### Key Findings:
 
 XGB Classifier achieved the highest accuracy (97.11%) and precision (93.60%), meaning it is excellent at correctly identifying non-diabetic cases, but it missed a notable proportion of actual diabetic patients (lower recall).
 ![3](https://github.com/user-attachments/assets/9f11cc90-05d0-42ea-9f9b-fc72d5db4821)
