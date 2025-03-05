@@ -131,7 +131,8 @@ SGD Classifier had the highest recall (82.85%), meaning it detected the most dia
 
 To optimize the strengths of these models, an Ensemble Method – Stacking Classifier was selected as the final model.The Stacking Classifier effectively combines Decision Tree, Random Forest, and XGBoost to improve both precision and recall, striking a balance between minimizing false positives and false negatives.
 
-![eval](https://github.com/user-attachments/assets/551eca3a-250d-4dbf-872b-c83d93c8ff2a)
+![eval](https://github.com/user-attachments/assets/a8c4f8ec-1b70-4096-a245-fbf62e897096)
+
 
 #### Final Model: Stacking Classifier
 
